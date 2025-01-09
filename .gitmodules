@@ -1,0 +1,3 @@
+[submodule "go-movies-front-end"]
+	path = go-movies-front-end
+	url = git@github.com:asifetv/movie.git
